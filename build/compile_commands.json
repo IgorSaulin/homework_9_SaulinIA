@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/sauli/User_Test_Program/C_C++/Homework_9_SaulinIA/build",
+  "command": "C:\\MSYS\\mingw64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\Homework_9.dir\\main.cpp.obj -c C:\\Users\\sauli\\User_Test_Program\\C_C++\\Homework_9_SaulinIA\\main.cpp",
+  "file": "C:/Users/sauli/User_Test_Program/C_C++/Homework_9_SaulinIA/main.cpp",
+  "output": "CMakeFiles/Homework_9.dir/main.cpp.obj"
+}
+]

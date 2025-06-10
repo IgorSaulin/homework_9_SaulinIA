@@ -1,0 +1,10 @@
+^C:\USERS\SAULI\USER_TEST_PROGRAM\C_C++\HOMEWORK_9_SAULINIA\BUILD\CMAKEFILES\A5995A30DFE2DBCFC47AEF7C2AEAB203\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/sauli/User_Test_Program/C_C++/Homework_9_SaulinIA -BC:/Users/sauli/User_Test_Program/C_C++/Homework_9_SaulinIA/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/sauli/User_Test_Program/C_C++/Homework_9_SaulinIA/build/Homework_9.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
